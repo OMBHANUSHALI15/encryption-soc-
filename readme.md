@@ -73,13 +73,7 @@ This approach is commonly used in secure web communications (HTTPS) and cloud st
 
 ---
 
-## Encryption Process Diagram
 
-![Encryption Process](images/encryption_process.png)
-
-*Figure 1: Illustration of encryption converting readable data into protected ciphertext.*
-
----
 
 ## Importance of Encryption in Cybersecurity
 
@@ -141,9 +135,10 @@ Properly applied encryption protects digital assets, strengthens trust with user
 
 ---
 
-## Author
+## Author 
 
-**[Om Bhanushali]**  
+**[Om Bhanushali]** 
+
 *Course: CompTIA Cybersecurity Analyst+ (CySA+) – Authentication & Encryption
+
 Platform: Infosys Springboard 
-Platform: *Self-Learning Assignment (SLA)*  
